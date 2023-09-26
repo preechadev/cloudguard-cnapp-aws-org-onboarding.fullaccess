@@ -1,4 +1,4 @@
-# CloudGuard CNAPP AWS Organization Terraform Onboarding (Read Only Mode)
+# CloudGuard CNAPP AWS Organization Terraform Onboarding (Full Access Mode)
 This Terraform project is intended to be used to onboard an entire AWS organization accounts in one-shot.     
 What it does is configuring, via **Terraform**, an existing CloudGuard CSPM Portal and AWS master account.      
  
